@@ -1,4 +1,4 @@
-public class First_Programe{
+public class FirstPrograme{
     public static void main(String[] args) {
         System.out.println("Hello World.....Nouman");
     }
